@@ -1,7 +1,10 @@
 # TEMP 1.0
 
-## ANGULAR AIRBnB TYPESCRIPT ESLINTING TEMPLATE WITH PRETTIER.
+## Angular AirBnb typescript ESlinting template with Prettier.
 
+### Starting template for integration with VSCODE and PRETTIER
+
+To install, make sure PRETTIER extension is installed in VSCODE, then:
 :: npm i
 
   
